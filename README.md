@@ -1,2 +1,2 @@
-# monocular_visual_odometry-_DuckieTown
+# monocular_visual_odometry_DuckieTown
 implementing monocular visual odometry on DuckieTown environment
